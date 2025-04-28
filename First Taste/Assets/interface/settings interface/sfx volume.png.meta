@@ -184,12 +184,12 @@ TextureImporter:
       name: sfx volume_0
       rect:
         serializedVersion: 2
-        x: 610
+        x: 609
         y: 314
-        width: 137
+        width: 380
         height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: sfx volume_1
       rect:
         serializedVersion: 2
-        x: 753
-        y: 312
+        x: 680
+        y: 459
         width: 236
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,7 +228,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f5930cc94f0f3b44fbe6f5a2b2492d67
     internalID: 0
     vertices: []
     indices: 
