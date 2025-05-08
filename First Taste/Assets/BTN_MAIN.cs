@@ -7,4 +7,8 @@ public class BTN_MAIN : MonoBehaviour
     {
         SceneManager.LoadScene("Settings");       
     }
+    public void OpenLoadGame()
+    {
+        SceneManager.LoadScene("Load Game");
+    }
 }
